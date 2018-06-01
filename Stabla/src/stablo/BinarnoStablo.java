@@ -2,7 +2,7 @@ package stablo;
 /*
  * Autor @mutavdzicmilos
  * Radjeno dana 01.06.2018.
- * CvorBSTStabla sa integer kljucem po uzoru na projekat
+ * BinarnoStablo sa dodatnim metodama po uzoru na projekat
  * radjen na casu iz programiranja 2 vezan za Kolekcije
  */
 import java.util.HashSet;
